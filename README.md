@@ -92,5 +92,5 @@ MIT
 
 ## Inspired by
 
-* [Storyworthy by Matthew Dicks](https://www.goodreads.com/book/show/38723597-storyworthy)
+* [Storyworthy by Matthew Dicks]([https://www.goodreads.com/book/show/38723597-storyworthy](https://www.goodreads.com/book/show/37786022-storyworthy))
 * The power of micro-journaling for personal growth.
